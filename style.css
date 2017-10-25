@@ -44,7 +44,14 @@ p {
   line-height: 1.1em;
 }
 
-
+article img {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  margin-left: -40px;
+}
 
 
 
